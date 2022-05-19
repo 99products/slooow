@@ -1,2 +1,2 @@
 # slooow
-Habit building app to take it slow and consistent
+Habit building app to do things slow and consistent
